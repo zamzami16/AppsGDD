@@ -1,0 +1,8 @@
+No,Nama,link,file-size
+1,HW Monitor.7z,https://1drv.ms/u/s!Ask9s9sbmPYZcnXieNcUCKVIAQw?e=fTOfHj,1.34
+2,Internet Download Manager (IDM).7z,https://1drv.ms/u/s!Ask9s9sbmPYZcy71-coOFoegYvk?e=I9tzRD,8.77
+3,Iobit Uninstaller.7z,https://1drv.ms/u/s!Ask9s9sbmPYZdA0RKh1BDR7UBQ4?e=2Hh01m,12.8
+4,Power ISO.7z,https://1drv.ms/u/s!Ask9s9sbmPYZcQnRe-MZgaBQuoo?e=Lh1MwV,8.07
+5,KMS_O19.7z,https://1drv.ms/u/s!Ask9s9sbmPYZdpQlnbtKK9Q4Osk?e=huQiAz,0.36
+6,Office Tolls.7z,https://1drv.ms/u/s!Ask9s9sbmPYZadUYSDQ7TOw3DeU?e=gZRdfJ,0.5
+7,Foxit Reader.7z,https://1drv.ms/u/s!Ask9s9sbmPYZddDwHTwf2qqP8mU?e=xafaGM,382
